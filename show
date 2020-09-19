@@ -1,0 +1,638 @@
+
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>CV Web Solution &#8211; You think, We Degine</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="CV Web Solution &raquo; Feed" href="https://cvwebsolution.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CV Web Solution &raquo; Comments Feed" href="https://cvwebsolution.in/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cvwebsolution.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://c0.wp.com/c/5.5.1/wp-includes/css/dist/block-library/theme.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://cvwebsolution.in/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.11.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='https://cvwebsolution.in/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://cvwebsolution.in/wp-content/themes/oceanwp/assets/css/third/magnific-popup.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://cvwebsolution.in/wp-content/themes/oceanwp/assets/css/third/slick.min.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='https://cvwebsolution.in/wp-content/themes/oceanwp/assets/css/style.min.css?ver=1.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='oceanwp-google-font-abeezee-css'  href='//fonts.googleapis.com/css?family=ABeeZee%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&#038;subset=latin&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://cvwebsolution.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://cvwebsolution.in/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://cvwebsolution.in/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://cvwebsolution.in/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-369-css'  href='https://cvwebsolution.in/wp-content/uploads/elementor/css/post-369.css?ver=1599501858' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://cvwebsolution.in/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-240-css'  href='https://cvwebsolution.in/wp-content/uploads/elementor/css/post-240.css?ver=1599503260' type='text/css' media='all' />
+<link rel='stylesheet' id='oe-widgets-style-css'  href='https://cvwebsolution.in/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='oss-social-share-style-css'  href='https://cvwebsolution.in/wp-content/plugins/ocean-social-sharing/assets/css/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAbril+Fatface%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/8.9/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://cvwebsolution.in/wp-json/" /><link rel="alternate" type="application/json" href="https://cvwebsolution.in/wp-json/wp/v2/pages/240" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cvwebsolution.in/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cvwebsolution.in/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<link rel="canonical" href="https://cvwebsolution.in/" />
+<link rel='shortlink' href='https://cvwebsolution.in/' />
+<link rel="alternate" type="application/json+oembed" href="https://cvwebsolution.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcvwebsolution.in%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://cvwebsolution.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcvwebsolution.in%2F&#038;format=xml" />
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://cvwebsolution.in/wp-content/uploads/2020/05/cropped-cv-comunidad-valenciana-logo-CD417D951E-seeklogo.com_-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://cvwebsolution.in/wp-content/uploads/2020/05/cropped-cv-comunidad-valenciana-logo-CD417D951E-seeklogo.com_-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://cvwebsolution.in/wp-content/uploads/2020/05/cropped-cv-comunidad-valenciana-logo-CD417D951E-seeklogo.com_-180x180.png" />
+<meta name="msapplication-TileImage" content="https://cvwebsolution.in/wp-content/uploads/2020/05/cropped-cv-comunidad-valenciana-logo-CD417D951E-seeklogo.com_-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			/* Custom hover color to the trainers social icons */.elementor-widget.custom-social .elementor-social-icon:hover{opacity:1;background-color:#0eb290;border-color:#0eb290;color:#fff}/* Margin bottom to the subscribe title */.elementor-widget.subscribe-tilte{margin:0 0 10px}/* Placeholders color*/#searchform-dropdown input::-webkit-input-placeholder,body .sidr-class-mobile-searchform input::-webkit-input-placeholder{color:#81e4cf}#searchform-dropdown input::-moz-placeholder,body .sidr-class-mobile-searchform input::-moz-placeholder{color:#81e4cf}#searchform-dropdown input:-ms-input-placeholder,body .sidr-class-mobile-searchform input:-ms-input-placeholder{color:#81e4cf}/* Scroll up button */#scroll-top{right:0;bottom:0;border-radius:0}#scroll-top,#scroll-top:hover{background-color:transparent}/* Footer */#footer-widgets .footer-box{text-align:center}#footer-widgets .social-widget .style-light li a,#footer-widgets .social-widget .style-dark li a,#footer-widgets .social-widget .style-colored li a{background-color:#263036;color:#708e9f;border-color:#263036;width:40px;height:40px;line-height:40px}#footer-widgets .social-widget .style-light li a:hover,#footer-widgets .social-widget .style-dark li a:hover,#footer-widgets .social-widget .style-colored li a:hover{background-color:#0eb290;color:#fff !important;border-color:#0eb290 !important}/* Responsive */@media (max-width:767px){/* Center the buttons in the hero */.elementor-element.hero-btn{text-align:center !important}/* Center elements on mobile */.elementor-element.center-mobile,.elementor-element.center-mobile .elementor-icon-box-wrapper{text-align:center !important}/* Margin top "Working" title on the contact page */.elementor-element.margin-mobile .elementor-heading-title{margin-top:30px}/* Social icons on the contact page */.elementor-social-icons-wrapper{text-align:left}.elementor-element.contact-social .elementor-social-icon{width:44px;height:44px;line-height:44px}.elementor-element.contact-social .elementor-social-icon:nth-child(4){margin-right:5px !important}}@media (max-width:480px){/* Title size in the hero */.elementor-element.hero-title .elementor-heading-title{font-size:30px}}		</style>
+		<!-- OceanWP CSS -->
+<style type="text/css">
+/* General CSS */a:hover,a.light:hover,.theme-heading .text::before,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#0eb290}input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu >li.btn >a >span,.thumbnail:hover i,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#0eb290}.widget-title{border-color:#0eb290}blockquote{border-color:#0eb290}#searchform-dropdown{border-color:#0eb290}.dropdown-menu .sub-menu{border-color:#0eb290}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#0eb290}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#0eb290}.social-widget li.oceanwp-email a:hover{border-color:#0eb290}#respond #cancel-comment-reply-link:hover{border-color:#0eb290}body .contact-info-widget.big-icons li:hover i{border-color:#0eb290}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#0eb290}input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,#site-navigation-wrap .dropdown-menu >li.btn >a:hover >span,.post-quote-author,.omw-modal .omw-close-modal:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover{background-color:#00967d}table th,table td,hr,.content-area,body.content-left-sidebar #content-wrap .content-area,.content-left-sidebar .content-area,#top-bar-wrap,#site-header,#site-header.top-header #search-toggle,.dropdown-menu ul li,.centered-minimal-page-header,.blog-entry.post,.blog-entry.grid-entry .blog-entry-inner,.blog-entry.thumbnail-entry .blog-entry-bottom,.single-post .entry-title,.single .entry-share-wrap .entry-share,.single .entry-share,.single .entry-share ul li a,.single nav.post-navigation,.single nav.post-navigation .nav-links .nav-previous,#author-bio,#author-bio .author-bio-avatar,#author-bio .author-bio-social li a,#related-posts,#comments,.comment-body,#respond #cancel-comment-reply-link,#blog-entries .type-page,.page-numbers a,.page-numbers span:not(.elementor-screen-only),.page-links span,body #wp-calendar caption,body #wp-calendar th,body #wp-calendar tbody,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .posts-thumbnails-widget li,body .tagcloud a{border-color:}.container{width:1080px}.page-header,.has-transparent-header .page-header{padding:100px 0 34px 0}.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{color:#ffffff}.site-breadcrumbs a,.background-image-page-header .site-breadcrumbs a{color:#ffffff}.site-breadcrumbs a:hover,.background-image-page-header .site-breadcrumbs a:hover{color:#0eb290}#scroll-top{color:#708e9f}#scroll-top:hover{color:#0eb290}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea{font-size:16px}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{font-size:16px}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{border-radius:1px}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-radius:1px}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.select2-container .select2-choice,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{border-color:#f6f6f6}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{border-color:#f6f6f6}form input[type="text"]:focus,form input[type="password"]:focus,form input[type="email"]:focus,form input[type="tel"]:focus,form input[type="url"]:focus,form input[type="search"]:focus,form textarea:focus,.select2-drop-active,.select2-dropdown-open.select2-drop-above .select2-choice,.select2-dropdown-open.select2-drop-above .select2-choices,.select2-drop.select2-drop-above.select2-drop-active,.select2-container-active .select2-choice,.select2-container-active .select2-choices{border-color:#e0e0e0}body div.wpforms-container-full .wpforms-form input:focus,body div.wpforms-container-full .wpforms-form textarea:focus,body div.wpforms-container-full .wpforms-form select:focus{border-color:#e0e0e0}form input[type="text"],form input[type="password"],form input[type="email"],form input[type="url"],form input[type="date"],form input[type="month"],form input[type="time"],form input[type="datetime"],form input[type="datetime-local"],form input[type="week"],form input[type="number"],form input[type="search"],form input[type="tel"],form input[type="color"],form select,form textarea,.woocommerce .woocommerce-checkout .select2-container--default .select2-selection--single{background-color:#f6f6f6}body div.wpforms-container-full .wpforms-form input[type=date],body div.wpforms-container-full .wpforms-form input[type=datetime],body div.wpforms-container-full .wpforms-form input[type=datetime-local],body div.wpforms-container-full .wpforms-form input[type=email],body div.wpforms-container-full .wpforms-form input[type=month],body div.wpforms-container-full .wpforms-form input[type=number],body div.wpforms-container-full .wpforms-form input[type=password],body div.wpforms-container-full .wpforms-form input[type=range],body div.wpforms-container-full .wpforms-form input[type=search],body div.wpforms-container-full .wpforms-form input[type=tel],body div.wpforms-container-full .wpforms-form input[type=text],body div.wpforms-container-full .wpforms-form input[type=time],body div.wpforms-container-full .wpforms-form input[type=url],body div.wpforms-container-full .wpforms-form input[type=week],body div.wpforms-container-full .wpforms-form select,body div.wpforms-container-full .wpforms-form textarea{background-color:#f6f6f6}/* Header CSS */#site-header{border-color:rgba(255,255,255,0.3)}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:226px}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:71px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#ffffff}a.sidr-class-toggle-sidr-close{background-color:#0a997b}#sidr,#mobile-dropdown{background-color:#0eb290}#sidr li,#sidr ul,#mobile-dropdown ul li,#mobile-dropdown ul li ul{border-color:#0a997b}body .sidr a,body .sidr-class-dropdown-toggle,#mobile-dropdown ul li a,#mobile-dropdown ul li a .dropdown-toggle,#mobile-fullscreen ul li a,#mobile-fullscreen .oceanwp-social-menu.simple-social ul li a{color:#abffee}#mobile-fullscreen a.close .close-icon-inner,#mobile-fullscreen a.close .close-icon-inner::after{background-color:#abffee}body .sidr a:hover,body .sidr-class-dropdown-toggle:hover,body .sidr-class-dropdown-toggle .fa,body .sidr-class-menu-item-has-children.active >a,body .sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,#mobile-dropdown ul li a:hover,#mobile-dropdown ul li a .dropdown-toggle:hover,#mobile-dropdown .menu-item-has-children.active >a,#mobile-dropdown .menu-item-has-children.active >a >.dropdown-toggle,#mobile-fullscreen ul li a:hover,#mobile-fullscreen .oceanwp-social-menu.simple-social ul li a:hover{color:#3be5cc}#mobile-fullscreen a.close:hover .close-icon-inner,#mobile-fullscreen a.close:hover .close-icon-inner::after{background-color:#3be5cc}body .sidr-class-mobile-searchform input,#mobile-dropdown #mobile-menu-search form input{background-color:#0a997b}body .sidr-class-mobile-searchform input,body .sidr-class-mobile-searchform input:focus,#mobile-dropdown #mobile-menu-search form input,#mobile-fullscreen #mobile-search input,#mobile-fullscreen #mobile-search label{color:#ffffff}body .sidr-class-mobile-searchform input,#mobile-dropdown #mobile-menu-search form input,#mobile-fullscreen #mobile-search input{border-color:#027c52}body .sidr-class-mobile-searchform input:focus,#mobile-dropdown #mobile-menu-search form input:focus,#mobile-fullscreen #mobile-search input:focus{border-color:#35ccac}.sidr-class-mobile-searchform button,#mobile-dropdown #mobile-menu-search form button{color:#35ccac}.sidr-class-mobile-searchform button:hover,#mobile-dropdown #mobile-menu-search form button:hover{color:#abffee}/* Footer Widgets CSS */#footer-widgets{background-color:#2e3b42}#footer-widgets .footer-box a,#footer-widgets a{color:#708e9f}#footer-widgets .footer-box a:hover,#footer-widgets a:hover{color:#0eb290}/* Footer Bottom CSS */#footer-bottom{background-color:#263036}#footer-bottom,#footer-bottom p{color:#708e9f}#footer-bottom a,#footer-bottom #footer-bottom-menu a{color:#708e9f}/* Social Sharing CSS */.entry-share ul li a{border-radius:3px}/* Typography CSS */body{font-family:ABeeZee;font-size:15px;letter-spacing:.4px}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-size:12px;text-transform:uppercase}.dropdown-menu ul li a.menu-link,#site-header.full_screen-header .fs-dropdown-menu ul.sub-menu li a{font-size:12px;line-height:2;text-transform:uppercase}#footer-bottom #copyright{font-weight:600;font-size:11px;letter-spacing:1px;text-transform:uppercase}
+</style></head>
+
+<body data-rsssl=1 class="home page-template-default page page-id-240 wp-custom-logo wp-embed-responsive oceanwp-theme sidebar-mobile has-transparent-header default-breakpoint content-full-screen page-header-disabled has-breadcrumbs no-margins elementor-default elementor-kit-369 elementor-page elementor-page-240" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+				<div id="transparent-header-wrap" class="clr">
+	
+<header id="site-header" class="transparent-header search-overlay has-social clr" data-height="74" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+
+	
+					
+			<div id="site-header-inner" class="clr container">
+
+				
+				
+
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand">
+
+	
+	<div id="site-logo-inner" class="clr">
+
+		<a href="https://cvwebsolution.in/" class="custom-logo-link" rel="home" aria-current="page"><img width="1060" height="170" src="https://cvwebsolution.in/wp-content/uploads/2020/05/cropped-LOGO-2.png" class="custom-logo" alt="CV Web Solution" srcset="https://cvwebsolution.in/wp-content/uploads/2020/05/cropped-LOGO-2.png 1060w, https://cvwebsolution.in/wp-content/uploads/2020/05/cropped-LOGO-2-300x48.png 300w, https://cvwebsolution.in/wp-content/uploads/2020/05/cropped-LOGO-2-1024x164.png 1024w, https://cvwebsolution.in/wp-content/uploads/2020/05/cropped-LOGO-2-768x123.png 768w" sizes="(max-width: 1060px) 100vw, 1060px" /></a>
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+
+
+
+<div class="oceanwp-social-menu clr social-with-style">
+
+	<div class="social-menu-inner clr colored">
+
+		
+			<ul aria-label="Social links">
+
+				<li class="oceanwp-twitter"><a href="https://twitter.com/cv_solution" aria-label="Twitter" target="_self" ><span class="fab fa-twitter" aria-hidden="true"></span></a></li><li class="oceanwp-facebook"><a href="https://www.facebook.com/CV-WEB-Solution-101105981614605" aria-label="Facebook" target="_self" ><span class="fab fa-facebook" aria-hidden="true"></span></a></li><li class="oceanwp-linkedin"><a href="#" aria-label="LinkedIn" target="_self" ><span class="fab fa-linkedin" aria-hidden="true"></span></a></li>
+			</ul>
+
+		
+	</div>
+
+</div>
+			<div id="site-navigation-wrap" class="no-top-border clr">
+			
+			
+			
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
+
+				<ul id="menu-main-menu" class="main-menu dropdown-menu sf-menu"><li id="menu-item-361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-240 current_page_item menu-item-361"><a href="https://cvwebsolution.in/" class="menu-link"><span class="text-wrap">Home</span></a></li><li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="https://cvwebsolution.in/portfolio/" class="menu-link"><span class="text-wrap">Portfolio</span></a></li><li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="https://cvwebsolution.in/careers/" class="menu-link"><span class="text-wrap">Careers</span></a></li><li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="https://cvwebsolution.in/blog/" class="menu-link"><span class="text-wrap">Blog</span></a></li><li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="https://cvwebsolution.in/contact-us/" class="menu-link"><span class="text-wrap">Contact</span></a></li><li class="search-toggle-li" ><a href="#/" class="site-search-toggle search-overlay-toggle" aria-label="Search website"><span class="icon-magnifier" aria-hidden="true"></span></a></li></ul>
+			</nav><!-- #site-navigation -->
+
+			
+			
+					</div><!-- #site-navigation-wrap -->
+			
+		
+	
+				
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+		<a href="#/" class="mobile-menu"  aria-label="Mobile Menu">
+							<i class="fa fa-bars" aria-hidden="true"></i>
+								<span class="oceanwp-text">Menu</span>
+
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+
+			</div><!-- #site-header-inner -->
+
+			
+			
+			
+		
+		
+</header><!-- #site-header -->
+
+	</div>
+	
+			
+			<main id="main" class="site-main clr"  role="main">
+
+				
+	
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article class="single-page-article clr">
+
+	
+<div class="entry clr" itemprop="text">
+
+	
+			<div data-elementor-type="wp-page" data-elementor-id="240" class="elementor elementor-240" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-yj8dq0l elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="yj8dq0l" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0ixf4xa" data-id="0ixf4xa" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-yqf7coq hero-title elementor-widget elementor-widget-heading" data-id="yqf7coq" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">WE ARE MAKEING EVERYONE ONLINE</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a6489b7 elementor-widget elementor-widget-text-editor" data-id="a6489b7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong>Create Your Any Website With Us Now And Get a Low Price From Us.</strong></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-uiefq2m elementor-align-center hero-btn animated-slow elementor-invisible elementor-widget elementor-widget-button" data-id="uiefq2m" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://api.whatsapp.com/send?phone=919771187131" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text"> पूछताछ</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-71d3857 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="71d3857" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-515f217" data-id="515f217" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d94a7f6 elementor-widget elementor-widget-spacer" data-id="d94a7f6" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-406e35a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="406e35a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-907bbca" data-id="907bbca" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a3ea0f2 elementor-widget elementor-widget-heading" data-id="a3ea0f2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xl">CV WEB SOLUTION </h1>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f5f28c2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f5f28c2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-88cf0bd" data-id="88cf0bd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6f3f72d elementor-widget elementor-widget-heading" data-id="6f3f72d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">WE DESIGN WEBSITES THAT MARKET FOR YOU AND YOUR BUSINESS </h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-da2f4ab elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="da2f4ab" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fbfee5e" data-id="fbfee5e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b7f7ea9 elementor-widget elementor-widget-text-editor" data-id="b7f7ea9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Are you looking for a new website? Need assistance with marketing your business online? Which Type of Website Should you Have the Build ? Would you like more enquiries?  WordPress Expert? HTML Expert? Then you are at the right place. We are specialise in user friendly web design with SEO and work closely with our customers to generate enquiries and sales through websites. We pride ourselves on the time taken to admit the desires of our customers, identifying unique opportunities on the internet before designing a website around these bottom line principles. As a trusted web design company in India, we observe the importance of customer support and gain the majority of our clients through positive word of mouth and referrals.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-33e2c48 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="33e2c48" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-27e9f0e" data-id="27e9f0e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-45b30be3 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45b30be3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3248c2f" data-id="3248c2f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6aac7b96 elementor-widget elementor-widget-heading" data-id="6aac7b96" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Web Services We Do.​​</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-19b401f6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19b401f6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a1edc66" data-id="a1edc66" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0d98747 elementor-position-top elementor-vertical-align-top elementor-invisible elementor-widget elementor-widget-image-box" data-id="0d98747" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceInLeft&quot;}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="1330" height="1080" src="https://cvwebsolution.in/wp-content/uploads/2020/05/145-1451605_web-designing-icon-png.png" class="elementor-animation-bob attachment-full size-full" alt="" loading="lazy" srcset="https://cvwebsolution.in/wp-content/uploads/2020/05/145-1451605_web-designing-icon-png.png 1330w, https://cvwebsolution.in/wp-content/uploads/2020/05/145-1451605_web-designing-icon-png-300x244.png 300w, https://cvwebsolution.in/wp-content/uploads/2020/05/145-1451605_web-designing-icon-png-1024x832.png 1024w, https://cvwebsolution.in/wp-content/uploads/2020/05/145-1451605_web-designing-icon-png-768x624.png 768w" sizes="(max-width: 1330px) 100vw, 1330px" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Website Design</h3><p class="elementor-image-box-description">We build a online identity for your successful company. With decades of experience in making smart and modern designs, we deliver quality web design at affordable costs.</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1ad270fe" data-id="1ad270fe" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d1c8545 elementor-position-top elementor-vertical-align-top elementor-invisible elementor-widget elementor-widget-image-box" data-id="d1c8545" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceIn&quot;}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="376" height="297" src="https://cvwebsolution.in/wp-content/uploads/2020/05/marketing-banner.png" class="elementor-animation-bob attachment-full size-full" alt="" loading="lazy" srcset="https://cvwebsolution.in/wp-content/uploads/2020/05/marketing-banner.png 376w, https://cvwebsolution.in/wp-content/uploads/2020/05/marketing-banner-300x237.png 300w" sizes="(max-width: 376px) 100vw, 376px" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Digital Marketing Services</h3><p class="elementor-image-box-description">Furthermore, our top Digital Marketing Agency offers services like SEO Services, SMO Service, Search Engine Marketing, PPC Management, and Social Media Marketing at affordable rates.</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-413b862a" data-id="413b862a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-88a6bcf elementor-position-top elementor-vertical-align-top elementor-invisible elementor-widget elementor-widget-image-box" data-id="88a6bcf" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceInRight&quot;}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="1100" height="796" src="https://cvwebsolution.in/wp-content/uploads/2020/05/web-development.png" class="elementor-animation-bob attachment-full size-full" alt="" loading="lazy" srcset="https://cvwebsolution.in/wp-content/uploads/2020/05/web-development.png 1100w, https://cvwebsolution.in/wp-content/uploads/2020/05/web-development-300x217.png 300w, https://cvwebsolution.in/wp-content/uploads/2020/05/web-development-1024x741.png 1024w, https://cvwebsolution.in/wp-content/uploads/2020/05/web-development-768x556.png 768w" sizes="(max-width: 1100px) 100vw, 1100px" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Web Devlopement</h3><p class="elementor-image-box-description">Our professional team has appreciable experience starting from simple websites to complex websites. We develop Customised Website, B2B Portal, B2C Portals, and more.
+
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-586f6e2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="586f6e2d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7792568f" data-id="7792568f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b0388a4 elementor-position-top elementor-vertical-align-top elementor-invisible elementor-widget elementor-widget-image-box" data-id="b0388a4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceInLeft&quot;}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="1024" height="1015" src="https://cvwebsolution.in/wp-content/uploads/2020/05/wordpress_PNG38.png" class="elementor-animation-skew-backward attachment-full size-full" alt="" loading="lazy" srcset="https://cvwebsolution.in/wp-content/uploads/2020/05/wordpress_PNG38.png 1024w, https://cvwebsolution.in/wp-content/uploads/2020/05/wordpress_PNG38-300x297.png 300w, https://cvwebsolution.in/wp-content/uploads/2020/05/wordpress_PNG38-150x150.png 150w, https://cvwebsolution.in/wp-content/uploads/2020/05/wordpress_PNG38-768x761.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">WordPress Devlopement</h3><p class="elementor-image-box-description">WordPress Developers are responsible for both back-end and front-end development, including creating WordPress themes and plugins.
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-19a3a42c" data-id="19a3a42c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6be1282 elementor-position-top elementor-vertical-align-top elementor-invisible elementor-widget elementor-widget-image-box" data-id="6be1282" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceIn&quot;}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="402" height="406" src="https://cvwebsolution.in/wp-content/uploads/2020/05/web-main.png" class="elementor-animation-bob attachment-full size-full" alt="" loading="lazy" srcset="https://cvwebsolution.in/wp-content/uploads/2020/05/web-main.png 402w, https://cvwebsolution.in/wp-content/uploads/2020/05/web-main-297x300.png 297w, https://cvwebsolution.in/wp-content/uploads/2020/05/web-main-150x150.png 150w" sizes="(max-width: 402px) 100vw, 402px" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Web Maintenance</h3><p class="elementor-image-box-description">We have got you covered.
+Rain or Shine.<br>
+Content Management System<br>
+Website Content Updates<br>
+Security Updates<br>
+Website Backups</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3f1bfd2c" data-id="3f1bfd2c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a0b01d3 elementor-position-top elementor-vertical-align-top elementor-invisible elementor-widget elementor-widget-image-box" data-id="a0b01d3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceInRight&quot;}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="405" height="315" src="https://cvwebsolution.in/wp-content/uploads/2020/05/unnamed.png" class="elementor-animation-wobble-to-top-right attachment-full size-full" alt="" loading="lazy" srcset="https://cvwebsolution.in/wp-content/uploads/2020/05/unnamed.png 405w, https://cvwebsolution.in/wp-content/uploads/2020/05/unnamed-300x233.png 300w" sizes="(max-width: 405px) 100vw, 405px" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Graphic Design</h3><p class="elementor-image-box-description">We have become experts in making corporate identity, logo design, website, brochure, and many more. Our skilled Graphic designers deliver 100% customer satisfaction.</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-78c09d40 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="78c09d40" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5293eac9" data-id="5293eac9" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9e76951 elementor-widget elementor-widget-heading" data-id="9e76951" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Let's talk about what we can build together</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-25071bc9 elementor-widget elementor-widget-text-editor" data-id="25071bc9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Whatever may be your requirement &#8211; We will Make it, be it a simple website design, a complex data driven web application development, an ecommerce website, a logo and brand identity design, or a full fledged digital marketing campaign &#8211;</p><p>we have a solution for you.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-49519a7f elementor-align-center elementor-widget elementor-widget-button" data-id="49519a7f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://cvwebsolution.in/contact-us/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text"> Contact us </span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c4bbdb2 elementor-widget elementor-widget-image" data-id="c4bbdb2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://cvwebsolution.in/contact-us/">
+							<img width="600" height="288" src="https://cvwebsolution.in/wp-content/uploads/2020/05/ad.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://cvwebsolution.in/wp-content/uploads/2020/05/ad.jpg 600w, https://cvwebsolution.in/wp-content/uploads/2020/05/ad-300x144.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-de255d1 elementor-widget elementor-widget-image" data-id="de255d1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://cvwebsolution.in/contact-us/">
+							<img width="768" height="296" src="https://cvwebsolution.in/wp-content/uploads/2020/09/ads2-768x296.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://cvwebsolution.in/wp-content/uploads/2020/09/ads2-768x296.jpg 768w, https://cvwebsolution.in/wp-content/uploads/2020/09/ads2-300x116.jpg 300w, https://cvwebsolution.in/wp-content/uploads/2020/09/ads2.jpg 819w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1647117 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1647117" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-42e3781" data-id="42e3781" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		
+	
+</div>
+
+</article>
+
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+	</div><!-- #content-wrap -->
+
+	
+
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-widgets" class="oceanwp-row clr">
+
+	
+	<div class="footer-widgets-inner container">
+
+					<div class="footer-box span_1_of_1 col col-1">
+				<div id="ocean_social-1" class="footer-widget widget-oceanwp-social social-widget clr">
+				<ul class="oceanwp-social-icons no-transition style-light">
+					<li class="oceanwp-twitter"><a href="https://twitter.com/cv_solution" aria-label="Twitter"  target="_self" ><i class="fab fa-twitter" aria-hidden="true"></i></a></li><li class="oceanwp-facebook"><a href="https://www.facebook.com/CV-WEB-Solution-101105981614605" aria-label="Facebook"  target="_self" ><i class="fab fa-facebook" aria-hidden="true"></i></a></li><li class="oceanwp-linkedin"><a href="#" aria-label="LinkedIn"  target="_self" ><i class="fab fa-linkedin" aria-hidden="true"></i></a></li><li class="oceanwp-tumblr"><a href="#" aria-label="Tumblr"  target="_self" ><i class="fab fa-tumblr" aria-hidden="true"></i></a></li>				</ul>
+
+				
+			
+		
+			</div><div id="ocean_custom_links-3" class="footer-widget widget-oceanwp-custom-links custom-links-widget clr"><ul class="oceanwp-custom-links"><li><a href="https://www.cvwebsolution.in/portfolio/" target="_blank" rel="noopener noreferrer">Portfolio</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="https://www.cvwebsolution.in/careers/" target="_blank" rel="noopener noreferrer">Careers</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="https://www.cvwebsolution.in/blog/" target="_blank" rel="noopener noreferrer">Blog</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="https://www.cvwebsolution.in/contact-us/" target="_blank" rel="noopener noreferrer">Contact Us</a><span class="screen-reader-text">Opens in a new tab</span></li></ul></div><div id="custom_html-4" class="widget_text footer-widget widget_custom_html clr"><div class="textwidget custom-html-widget">+91 - 9771187131 | admin@cvwebsolution.in</div></div>			</div><!-- .footer-one-box -->
+
+			
+			
+			
+			
+	</div><!-- .container -->
+
+	
+</div><!-- #footer-widgets -->
+
+
+
+<div id="footer-bottom" class="clr no-footer-nav">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				© Copyright - CV Web Solution			</div><!-- #copyright -->
+
+			
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a id="scroll-top" class="scroll-top-right" href="#"><span class="fa fa-angle-double-up" aria-label="Scroll to the top of the page"></span></a>
+
+
+<div id="searchform-overlay" class="header-searchform-wrap clr" >
+	<div class="container clr">
+	<form role="search" method="get" action="https://cvwebsolution.in/" class="header-searchform">
+			<a href="#/" class="search-overlay-close" aria-label="Close search form"><span></span></a>
+			<span class="screen-reader-text">Search for:</span>
+			<input class="searchform-overlay-input" type="search" name="s" autocomplete="off" value="" aria-placeholder="Type then hit enter to search" />
+			<label>Type then hit enter to search<span aria-hidden="true"><i></i><i></i><i></i></span></label>
+								</form>
+	</div>
+</div><!-- #searchform-overlay -->
+
+
+<div id="sidr-close">
+	<a href="#" class="toggle-sidr-close" aria-label="Close mobile Menu">
+		<i class="icon icon-close" aria-hidden="true"></i><span class="close-text">Close Menu</span>
+	</a>
+</div>
+
+	
+	
+<div id="mobile-menu-search" class="clr">
+	<form method="get" action="https://cvwebsolution.in/" class="mobile-searchform" role="search" aria-label="Search for:">
+		<label for="ocean-mobile-search1">
+			<input type="search" name="s" autocomplete="off" placeholder="Search" />
+			<button type="submit" class="searchform-submit" aria-label="Submit Search">
+				<i class="icon icon-magnifier" aria-hidden="true"></i>
+			</button>
+					</label>
+			</form>
+</div><!-- .mobile-menu-search -->
+
+
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/imagesloaded.min.js' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js?ver=1.8.7' id='magnific-popup-js'></script>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js?ver=1.8.7' id='oceanwp-lightbox-js'></script>
+<script type='text/javascript' id='oceanwp-main-js-extra'>
+/* <![CDATA[ */
+var oceanwpLocalize = {"isRTL":"","menuSearchStyle":"overlay","sidrSource":"#sidr-close, #site-navigation, #site-header .oceanwp-social-menu, #mobile-menu-search","sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"https:\/\/cvwebsolution.in\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/themes/oceanwp/assets/js/main.min.js?ver=1.8.7' id='oceanwp-main-js'></script>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/plugins/ocean-social-sharing/assets/js/social.min.js?ver=1.1.0' id='oss-social-share-script-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=1.8.7' id='html5shiv-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.6' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.9.2' id='elementor-sticky-js'></script>
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/cvwebsolution.in\/wp-admin\/admin-ajax.php","nonce":"b83b3f742f","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+</script>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.9.2' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/jquery/ui/position.min.js' id='jquery-ui-position-js'></script>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.6' id='share-link-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.6","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/cvwebsolution.in\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":240,"title":"CV%20Web%20Solution%20%E2%80%93%20You%20think%2C%20We%20Degine","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.6' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/underscore.min.js' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.5.1/wp-includes/js/wp-util.min.js' id='wp-util-js'></script>
+<script type='text/javascript' id='wpforms-elementor-js-extra'>
+/* <![CDATA[ */
+var wpformsElementorVars = {"recaptcha_type":"v2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cvwebsolution.in/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.2.2' id='wpforms-elementor-js'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202038.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.9',blog:'177317825',post:'240',tz:'0',srv:'cvwebsolution.in'} ]);
+	_stq.push([ 'clickTrackerInit', '177317825', '240' ]);
+</script>
+</body>
+</html>
+
+<!-- Page supported by LiteSpeed Cache 3.4.1 on 2020-09-19 16:21:00 -->
